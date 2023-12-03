@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloned Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Include any other necessary stylesheets or scripts -->
+</head>
+<body>
+    <header>
+        <h1>Cloned Website Header</h1>
+        <!-- Navigation links -->
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <!-- Add other navigation links -->
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome to our Cloned Website!</h2>
+            <p>This is where the main content would go. You can add paragraphs, images, lists, and other elements to represent the primary content of the website you're cloning.</p>
+            <p>For example:</p>
+            <img src="image.jpg" alt="Sample Image">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et facilisis purus.</p>
+            <!-- Add more content here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Cloned Website. All rights reserved.</p>
+        <!-- Footer links or additional information -->
+    </footer>
+</body>
+</html>
